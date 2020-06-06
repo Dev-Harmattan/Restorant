@@ -1,0 +1,21 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "first bootstrap lesson",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "Sodiq",
+  "license": "ISC"
+}
