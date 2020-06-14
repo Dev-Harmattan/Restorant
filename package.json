@@ -8,6 +8,8 @@
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
+    "onchange": "^3.3.0",
+    "parallelshell": "^3.0.2",
     "popper.js": "^1.12.9"
   },
   "devDependencies": {
